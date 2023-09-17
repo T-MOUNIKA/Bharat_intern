@@ -6,7 +6,7 @@ Prerequisite: For using this project you have to create a database using 'cms_pr
 
 At first user have to create an account in this and then user'll work properly.
 
-For demo purpose user can use 'admin@gmail.com' as email and '0000' as password.
+For demo purpose user can use 'admin@gmail.com' as email and '0000' as password.                       
 User can perform the following operations:
 
 •LogIn : Create an account : Change user password using OPT
